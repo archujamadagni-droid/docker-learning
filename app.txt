@@ -1,4 +1,1 @@
-hello sir hello t
-hello sir hello 
-hello
-DOcker is easy
+Docker is easy
