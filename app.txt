@@ -1,1 +1,2 @@
-Docker is easy
+
+Docker is easy and powerful
